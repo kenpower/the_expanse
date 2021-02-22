@@ -62,6 +62,8 @@ a:active {
 }
 
 .label{
+    color: white;
+  font-family: 'Raleway', sans-serif;
   margin : 2;
 }
 
